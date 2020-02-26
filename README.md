@@ -15,8 +15,10 @@ Create three methods for searching the documents:
 Prompt the user to enter a search term and search method, execute the search, and return results. For instance:
 
 Enter the search term: <user enters search term> 
+  
 Search Method: 1) String Match 2) Regular Expression 3) Indexed 
-  Search results: 
+
+Search results: 
   File2.txt – X matches 
   File1.txt - X matches 
   File3.txt – X matches 
