@@ -4,9 +4,10 @@ A program to search an input string using 3 different search methods
 Document Search
 
 Problem Statement:
-The goal of this exercise is to create a working program to search a set of documents for the given search term or phrase (single token),
-and return results in order of relevance. 
+
+The goal of this exercise is to create a working program to search a set of documents for the given search term or phrase (single token), and return results in order of relevance.
 Relevancy is defined as number of times the exact term or phrase appears in the document. 
+
 Create three methods for searching the documents: 
 •	Simple string matching
 •	Text search using regular expressions
