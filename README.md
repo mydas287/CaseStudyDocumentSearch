@@ -30,7 +30,9 @@ Solution:
 The code was written in Java and tested using JUnit. The performance test for 2M random search tearms had the following results
 
 Time taken for method type: STRINGMATCH 3234989 ms
+
 Time taken for method type: REGEX 3252355 ms
+
 Time taken for method type: INDEXED 590709 ms
 
 To run the program, import the entire folder and run the main class DocumentSearch.java. The program takes input in the console.
