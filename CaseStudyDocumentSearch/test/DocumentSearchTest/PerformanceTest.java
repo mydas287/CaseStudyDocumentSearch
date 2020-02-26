@@ -39,7 +39,6 @@ public class PerformanceTest
 
     public static void measureTime(String methodType)
     {
-        System.out.println("Started measurement");
         long sum = new Long(0);
         for (int i = 0; i < number; i++)
         {
